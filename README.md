@@ -13,7 +13,8 @@ Liu Z, Wang H, Ding J, et al. Data Stream driven evolutionary algorithm for cost
 % copyright notice is retained and the origin of the code is cited. The
 
 % code is provided "as is" and without any warranties, express or implied.
-% This code is written by Nan Zheng.
+
+% This code is written by Zhening Liu.
 
 ## Perform method
 
